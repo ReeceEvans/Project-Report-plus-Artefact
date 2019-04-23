@@ -1,7 +1,6 @@
 # Project-Report-plus-Artefact
 This repository contains the work done for the assignment 1 web design for industry assignment due on the 23rd of April 2019.
 
-Introduction
 
 This assignment looks to solve the problem that many vegan people have when it comes to eating out, many vegans have issues when going out due to vegan options being limited across many restaurants. To solve this issue, is the creation of a website that’ll allow vegans to find all restaurants that they can eat in.
 Within this assignment, I will be following the design focused route rather than the development focused route. I will be discussing the creation of an in-depth high fidelity mock up that will be created using tool such as InDesign and Sketch which will also be supported by a more simplistic single page web application (SPA). The SPA that will be created will be more of an interactive example of the web application that has been designed, based on this the main focus will be to show how the data will be conceptually represented in a web application; this may allow for place holder data to be used rather than making API calls. 
